@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277459562251",
+    "project_id": "catalogo-filmes-flutter-191ea",
+    "storage_bucket": "catalogo-filmes-flutter-191ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277459562251:android:2e1c1cdf40b8a53cc0bc0e",
+        "android_client_info": {
+          "package_name": "com.example.catalogo_filmes_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8R_Q0J93LfCyYoZfIbaYyHJs85wuNJbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
