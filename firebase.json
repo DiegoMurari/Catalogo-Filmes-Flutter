@@ -1,1 +1,33 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"catalogo-filmes-flutter-191ea","appId":"1:277459562251:android:2e1c1cdf40b8a53cc0bc0e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"catalogo-filmes-flutter-191ea","configurations":{"android":"1:277459562251:android:2e1c1cdf40b8a53cc0bc0e","ios":"1:277459562251:ios:74d1773b6da3117ec0bc0e","macos":"1:277459562251:ios:74d1773b6da3117ec0bc0e","web":"1:277459562251:web:3f87d049130387bdc0bc0e","windows":"1:277459562251:web:1d761b46e5413676c0bc0e"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "catalogo-filmes-flutter-191ea",
+          "appId": "1:277459562251:android:2e1c1cdf40b8a53cc0bc0e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "catalogo-filmes-flutter-191ea",
+          "configurations": {
+            "android": "1:277459562251:android:2e1c1cdf40b8a53cc0bc0e",
+            "ios": "1:277459562251:ios:74d1773b6da3117ec0bc0e",
+            "macos": "1:277459562251:ios:74d1773b6da3117ec0bc0e",
+            "web": "1:277459562251:web:3f87d049130387bdc0bc0e",
+            "windows": "1:277459562251:web:1d761b46e5413676c0bc0e"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

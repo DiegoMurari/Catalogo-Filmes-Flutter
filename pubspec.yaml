@@ -1,23 +1,27 @@
 name: catalogo_filmes_flutter
-description: Um catálogo de filmes usando Flutter, API e Firebase
+description: Um catálogo de filmes usando Flutter, API e Firebase.
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+
+  # API
   http: ^0.13.6
-  cupertino_icons: ^1.0.6
+
+  # Firebase
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.12.0
+
+  # YouTube player
   youtube_player_flutter: ^8.1.1
 
-  # Firebase dependencies
-  firebase_core: ^2.14.0
-  firebase_auth: ^4.6.1
-  cloud_firestore: ^4.9.1
+  # Ícones do iOS
+  cupertino_icons: ^1.0.6
 
 dev_dependencies:
   flutter_test:
@@ -26,3 +30,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/
