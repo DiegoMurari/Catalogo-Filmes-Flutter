@@ -37,7 +37,7 @@ Aplicativo desenvolvido com **Flutter**, que consome dados da API do TMDb, exibe
 
 ## 🌐 Versão Web
 
-Acesse a versão web do projeto [clicando aqui](https://<SEU_DEPLOY_WEB>.web.app) *(substitua pelo seu link após o deploy)*.
+Acesse a versão web do projeto [clicando aqui](https://catalogo-filmes-flutter-191ea.web.app/) *(substitua pelo seu link após o deploy)*.
 
 ## 📦 Instalação
 
