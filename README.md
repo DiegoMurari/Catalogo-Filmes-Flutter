@@ -1,4 +1,4 @@
-f"""# 🎬 Catálogo de Filmes Flutter
+# 🎬 Catálogo de Filmes Flutter
 
 Aplicativo desenvolvido com **Flutter**, que consome dados da API do TMDb, exibe trailers do YouTube e permite curtir e comentar os filmes. Integração com **Firebase Firestore** para armazenamento dos comentários.
 
