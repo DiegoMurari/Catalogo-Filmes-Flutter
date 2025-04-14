@@ -28,7 +28,7 @@ Aplicativo desenvolvido com **Flutter**, que consome dados da API do TMDb, exibe
 |-----------|------------------|
 | ![Home](assets/images/Home.png) | ![Pagina Do Filme](assets/images/Movie_home.png) |
 | Trailer + Comentários | |
-| ![Trailer e Comentários](assets/images/Captura%20de%20tela%202025-04-14%20124252.png) | |
+| ![Trailer e Comentários](assets/images/Trailer-coments.png) | |
 
 ## 🔥 Firebase
 
